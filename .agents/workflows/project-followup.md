@@ -1,5 +1,5 @@
 ---
-description: Analiza seguimientos del proyecto SILIN - Procesamiento inteligente FT, genera borradores y guarda solo con aprobación explícita
+description: Analiza seguimientos del proyecto, genera borradores y guarda solo con aprobación explícita
 ---
 
 # Workflow: Project Followup
@@ -8,18 +8,17 @@ description: Analiza seguimientos del proyecto SILIN - Procesamiento inteligente
 Permitir que el usuario trabaje conversacionalmente sobre seguimientos, transcripciones e insights del proyecto, comparando siempre contra el contexto canónico aprobado.
 
 ## Proyecto principal
-SILIN - Procesamiento inteligente FT
+[Nombre del Proyecto]
 
 ## Fuentes canónicas obligatorias
 Antes de analizar cualquier seguimiento, leer:
 
 1. `canon/business_context.md`
-2. `canon/silin_business_context.md`
-3. `canon/project_context_silin_procesamiento_ft.md`
-4. `canon/asis_silin_procesamiento_ft.md`
-5. `canon/tobe_silin_procesamiento_ft.md`
-6. `canon/capabilities_silin_procesamiento_ft.md`
-7. `canon/user_stories_silin_procesamiento_ft.md`
+2. `canon/project_context.md` (si existe)
+3. `canon/asis.md` (si existe)
+4. `canon/tobe.md` (si existe)
+5. `canon/capabilities.md` (si existe)
+6. `canon/user_stories.md` (si existe)
 
 ## Reglas
 

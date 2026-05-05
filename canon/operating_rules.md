@@ -20,6 +20,10 @@
 6. **Toda promoción debe dejar trazabilidad.**
    Cada elemento aprobado debe enlazar, al menos por referencia textual, a la transcripción o reunión de origen.
 
+7. **[NUEVO] Separación de Capas (Vault vs PM).**
+   - **Obsidian Vault:** Capa de conocimiento desestructurado, vivo, borrador e hipótesis.
+   - **PM System (Canon/Airtable):** Capa oficial estructurada. Las decisiones, HUs o PRDs solo pasan del Vault al Canon/Airtable mediante aprobación explícita usando el workflow de sincronización (`obs-sync-to-pm.md`).
+
 ## Definición de aprobado
 
 Un contenido se considera aprobado cuando el usuario confirma explícitamente que ese contenido representa la versión vigente del contexto, AS-IS, TO-BE, capacidad, feature, historia, decisión o riesgo.
