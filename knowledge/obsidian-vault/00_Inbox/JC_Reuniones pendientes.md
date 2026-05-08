@@ -1,5 +1,5 @@
 ---
-tags: [j-commander, nota-rapida]
+tags: [j-commander, nota-rapida, "#status/procesado"]
 date: "2026-05-05"
 ---
 

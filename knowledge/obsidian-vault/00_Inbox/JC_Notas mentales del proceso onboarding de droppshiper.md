@@ -1,5 +1,5 @@
 ---
-tags: [j-commander, nota-rapida]
+tags: [j-commander, nota-rapida, "#status/procesado"]
 date: "2026-05-05"
 ---
 
@@ -17,3 +17,8 @@ En los videos de dropshippers menciona mucho los 5 puntos para que sea exitoso e
 7. Empesar con productos de facil recompra, 
 8. Uso de chatgpt para evaluar los productos de un proveedor y que los ponga en un excel y analice márgenes de ideas, etc
 9. Se menciona que usar el celular como herramienta de ventas, WA business, Instagram
+
+## 📋 Accionables Extraídos
+
+- [ ] Definir cómo obtener métricas de dropshippers que no encuentran lo que buscan en la plataforma.
+- [ ] Definir cómo buscan los dropshippers y cómo obtener feedback de ellos.
