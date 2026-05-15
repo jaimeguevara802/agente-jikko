@@ -27,4 +27,4 @@ Memoria operativa para publicar prototipos en la pestaña **Prototipo** de J-Com
 | --- | --- | --- | --- | --- |
 | 2026-05-15 | `COM-001` | `prototypes/test-combo-producto-simple-shopify.html` | `d106ca5` | `f0c4317` |
 | 2026-05-15 | `COM-001` | `prototypes/test-combo-producto-variable-shopify.html` | `9a9e3e7` | `18a6b14` |
-| 2026-05-15 | `CELL-001` | `prototypes/presentacion-1.html` | `d8d079a` | `pending` |
+| 2026-05-15 | `CELL-001` | `prototypes/presentacion-1.html` | `d8d079a` | `088cd35` |
