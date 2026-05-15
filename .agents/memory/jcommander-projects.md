@@ -17,7 +17,7 @@ Memoria operativa para publicar prototipos en la pestaña **Prototipo** de J-Com
 
 | Código | Nombre | Área | Prototipos registrados | Notas |
 | --- | --- | --- | --- | --- |
-| `COM-001` | Combos | Growth / Demand | `prototypes/flujo1-combos-creacion-supplier.html`, `prototypes/test-combo-producto-simple-shopify.html` | Proyecto de combos; prototipo Shopify simple agregado el 2026-05-15. |
+| `COM-001` | Combos | Growth / Demand | `prototypes/flujo1-combos-creacion-supplier.html`, `prototypes/test-combo-producto-simple-shopify.html`, `prototypes/test-combo-producto-variable-shopify.html` | Proyecto de combos; prototipos Shopify simple y variable agregados el 2026-05-15. |
 | `SUP-001` | Supplier Data & Dashboard | Growth / Supply | `prototypes/sup-001-v2.html` | Tiene patrón de versión y actualización histórica vía `test_update_project.py`. |
 
 ## Últimas publicaciones
@@ -25,3 +25,4 @@ Memoria operativa para publicar prototipos en la pestaña **Prototipo** de J-Com
 | Fecha | Proyecto | Archivo | Commit j-commander | Commit repo padre |
 | --- | --- | --- | --- | --- |
 | 2026-05-15 | `COM-001` | `prototypes/test-combo-producto-simple-shopify.html` | `d106ca5` | `f0c4317` |
+| 2026-05-15 | `COM-001` | `prototypes/test-combo-producto-variable-shopify.html` | `9a9e3e7` | `1bc9b9d` |
